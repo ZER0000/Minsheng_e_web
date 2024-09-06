@@ -59,11 +59,11 @@ module.exports = {
         path: "/",
         collapsable: false,  // 是否折叠
         children: [
-          { title: "□供应链", path: "/" },
+          { title: "□供应链", path: "/handbook/产品服务_供应链" },
           { title: "□代发工资", path: "/" },
           { title: "□商户收单", path: "/" },
           { title: "□贷款授信", path: "/" },
-          { title: "□年金托管", path: "/" },
+          { title: "□年金托管", path: "/handbook/产品服务_年金托管" },
         ],
       },
       {
