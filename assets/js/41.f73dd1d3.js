@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{472:function(t,n,s){"use strict";s.r(n);var e=s(2),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("机构客群：机构客群是中国民生银行的“负债压舱石”，主要为各类行政机关，事业单位、社团组织、教育医疗、文旅烟草等客户提供金融服务和非金综合服务。")])])}),[],!1,null,null,null);n.default=o.exports}}]);
