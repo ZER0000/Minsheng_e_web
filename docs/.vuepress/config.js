@@ -24,7 +24,7 @@ module.exports = {
       {
         title: "民生银行简介",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□网点建设及人员情况", path: "/handbook/民生银行简介_网点建设及人员情况" },
           { title: "□理念定位", path: "/handbook/民生银行简介_理念定位" },
@@ -34,7 +34,7 @@ module.exports = {
       {
         title: "民生银行北京分行",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□网点建设及人员情况", path: "/handbook/民生银行北京分行_网点建设及人员情况" },
           { title: "□荣誉奖章", path: "/handbook/民生银行北京分行_荣誉奖章" },
@@ -44,7 +44,7 @@ module.exports = {
       {
         title: "客群特色",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□战略客群", path: "/" },
           { title: "□同业客群", path: "/" },
@@ -57,7 +57,7 @@ module.exports = {
       {
         title: "产品服务",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□供应链", path: "/handbook/产品服务_供应链" },
           { title: "□代发工资", path: "/" },
@@ -69,7 +69,7 @@ module.exports = {
       {
         title: "保值增值",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□公司资金存放", path: "/" },
           { title: "□个人理财", path: "/" },
@@ -80,7 +80,7 @@ module.exports = {
       {
         title: "民生工程",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□第三代社保卡", path: "/" },
           { title: "□医保移动支付", path: "/" },
@@ -89,7 +89,7 @@ module.exports = {
       {
         title: "党团共建公益交流",
         path: "/",
-        collapsable: false,  // 是否折叠
+        collapsable: true,  // 是否折叠
         children: [
           { title: "□民生美术馆", path: "/" },
           { title: "□河南滑县", path: "/" },
