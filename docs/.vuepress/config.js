@@ -11,13 +11,18 @@ module.exports = {
   themeConfig: {
     subSidebar: 'auto',
     nav: [
-      { text: "首页", link: "/" },
+      // { text: "首页", link: "/" },
+      { text: "补充/修订模块内容", link: "/" },
+      { text: "权限配置", link: "/" },
+      { text: "导出方案", link: "/" },
+      
       {
-        text: "机构业务部",
-        items: [
-          { text: "民生银行机构业务部", link: "https://juejin.cn/user/726107228492253" },
-          { text: "北京分行", link: "https://github.com/coding-lin" }
-        ]
+        // text: "补充/修订模块内容",
+        // items: [
+        //   { text: "申请部门", link: "/" },
+        //   { text: "申请人", link: "" },
+        //   { text: "申请类型", link: "" }
+        // ]
       }
     ],
     sidebar: [
