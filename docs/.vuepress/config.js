@@ -1,6 +1,9 @@
 module.exports = {
   title: '民生e方案平台',
-  description: 'XXX',
+  description: '您身边的e方案专家',
+    head: [
+      ['link', { rel: 'icon', href: '/img/logo.png' }],
+    ],
   base: '/Minsheng_e_web/',
   theme: 'reco',
   locales: {
@@ -9,6 +12,7 @@ module.exports = {
     }
   },
   themeConfig: {
+    logo:'/img/minsheng2.png',
     subSidebar: 'auto',
     nav: [
       // { text: "首页", link: "/" },
